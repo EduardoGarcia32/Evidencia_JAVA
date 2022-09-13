@@ -7,11 +7,11 @@ El participante aplicará sus conocimientos obtenidos en el curso para crear un 
 # Uso
 El programa presentara un menú interactivo en el cual se podra seleccionar alguna de las siguientes opciones
 
--Doctores
+*Doctores
 
--Citas
+*Citas
 
--Pacientes
+*Pacientes
 
 Una vez seleccionada la opcion se podra capturar los datos para crear un registro dentro del programa, a continación se muestran las posibles opciones:
 
