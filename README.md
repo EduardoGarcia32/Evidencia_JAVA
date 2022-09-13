@@ -7,39 +7,39 @@ El participante aplicará sus conocimientos obtenidos en el curso para crear un 
 # Uso
 El programa presentara un menú interactivo en el cual se podra seleccionar alguna de las siguientes opciones
 
-Doctores
+-Doctores
 
-Citas
+-Citas
 
-Pacientes
+-Pacientes
 
 Una vez seleccionada la opcion se podra capturar los datos para crear un registro dentro del programa, a continación se muestran las posibles opciones:
 
-Doctores
+-Doctores
 
-Nombre
+-Nombre
 
-Id
+-Id
 
-Especialidad
+-Especialidad
 
 Pacientes
 
-Nombre
+-Nombre
 
-ID
+-ID
 
 Citas
 
-Hora
+-Hora
 
-Fecha
+-Fecha
 
-Asignar Doctor
+-Asignar Doctor
 
-Asignar Paciente
+-Asignar Paciente
 
-Motivo
+-Motivo
 
 # Creditos
 Luis Eduardo Garcia Soto
